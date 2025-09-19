@@ -51,7 +51,7 @@
 
     ### Complain
 
-    `- The Backend Developer complains that the frontend team keeps requesting last-minute changes without finalizing requirements`
+    `- Encounters complexities when migrating from a monolith to microservices`
 
 - ## Team Leader Solution
 
