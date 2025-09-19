@@ -33,7 +33,7 @@
 
     ### Complain
 
-        - The Frontend Developer complains that the backend API endpoints keep changing, forcing them to redo UI work.
+    ` - The Frontend Developer complains that the backend API endpoints keep changing, forcing them to redo UI work.`
 
 - Backend
 
@@ -71,3 +71,7 @@
 ### What is Agile?
 
 ![ Agile ](agile.webp "Agile")
+
+### Kanban VS Scrum
+
+![Kanban_VS_Scrum](kanScrum.png "KanbanScrum")
